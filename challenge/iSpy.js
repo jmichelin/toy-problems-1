@@ -1,7 +1,10 @@
 // Link: https://challenge.makerpass.com/c/78a81f6fc494133c63d501269602266f
 
 // Description:
-// Write a function – spyOn – which takes in another function as an argument. spyOn should return a spy (i.e. a function) that can be invoked and behaves like the original function. However, the spy has some extra capabilities in addition to behaving like the original function.
+// Write a function – spyOn – which takes in another function as an argument. 
+// spyOn should return a spy (i.e. a function) that can be invoked and behaves
+// like the original function. However, the spy has some extra capabilities in
+// addition to behaving like the original function.
 
 // Please read the requirements carefully!
 
